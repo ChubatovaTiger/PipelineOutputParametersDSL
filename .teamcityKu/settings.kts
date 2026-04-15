@@ -100,7 +100,7 @@ object Pipeline1 : Pipeline({
 
     outputParams {
         param("ppl1", "%ppl1%")
-        param("ppl2", "2")
+        param("ppl2", "3")
     }
 
     job(Pipeline1_Job1)
