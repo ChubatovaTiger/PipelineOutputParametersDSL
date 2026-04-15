@@ -90,7 +90,7 @@ object Pipeline1 : Pipeline({
     }
 
     params {
-        param("ppl1", "val1")
+        param("ppl1", "val2")
     }
 
     triggers {
