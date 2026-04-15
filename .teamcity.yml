@@ -1,0 +1,6 @@
+version: 1
+jobs:
+  Job1:
+    name: Job 1
+parameters:
+  ppl1: val2
